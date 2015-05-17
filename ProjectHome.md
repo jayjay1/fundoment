@@ -1,0 +1,1 @@
+Crowd funding website done using Yii framework and Rights extension, with nice website template.
